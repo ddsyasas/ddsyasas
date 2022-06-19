@@ -7,7 +7,7 @@
 
 💎Academic skills: Mathematics, Physics and material science, Flexible electronics,
 
-💎Programming skills: Python, C, C#, Flutter, HTML, CSS, SQL, Java
+💎Programming skills: Python, C, C#, C++, Flutter, HTML, CSS, SQL, Java
 
 💎Tech skills: Emberded system deaigning, Electronic developments, Web developing, Mobile app developments. 
 
