@@ -1,33 +1,32 @@
-🚀Startup Enthusiast | 📚Researcher | 📲Tech developer | 🎯Brand strategist
+About Me 👨‍💻
 
-🎓 I am still an undergraduate who studying Engineering physics degree at University of Colombo. 
+🚀 Coding for Research and Innovation
+I am a Physics Scholar with a passion for Condensed-Matter and Materials Physics Research and Digital Innovation. My coding journey stems from two major passions:
 
-👩‍🏫 Maths and physics tutor 
-💆‍♂‍Mentor - EI club UOC
+Physics Research:
 
-💎Academic skills: Mathematics, Physics and material science, Flexible electronics,
+Developing and utilizing computational tools to solve complex problems in Condensed-Matter Physics.
+Coding in Python, MATLAB, C, and C++ for simulations, data analysis, and modeling.
+Exploring innovative approaches to material-based sensors and other physics-related breakthroughs using computational techniques.
 
-💎Programming skills: Python, C, C#, C++, Flutter, HTML, CSS, SQL, Java
+Software Development for Real-World Impact:
 
-💎Tech skills: Emberded system deaigning, Electronic developments, Web developing, Mobile app developments. 
+As the founder of IDER Solutions, I lead a team dedicated to building in-house software products, web apps, and mobile applications.
+Our focus is on solving real-world problems through technology, from tools for productivity to platforms for digital growth.
+My tech stack includes JavaScript, Node.js, React, HTML/CSS, and SQL for full-stack development.
 
-💎Digital skills: SEO, Digital marketing, Branding, E-Commerce
+💡 Why Coding?
+Coding is the bridge between theoretical understanding and practical application. For me, it’s not just about writing code but about creating solutions—whether it’s optimizing research workflows or building tools that make people’s lives easier.
 
-- 🚀 I am excited about everything connected with the startup world and look forward to connecting with talented individuals and growing startup.
+🌐 What I Bring to the Table:
 
-- 💡 I am enjoying the process of innovation. I love to create new ideas, find new ways to do things, and create new products that have never been made. 
+Physics meets Technology: Leveraging advanced research methodologies with programming to tackle challenges in science and industry.
+Full-Stack Development: Proficient in creating scalable, efficient, and user-friendly applications tailored to specific needs.
+Problem-Solving Focus: Driven by curiosity, I continuously develop tools that address gaps in everyday life and research.
 
-- 📚 Research is the key to innovation, and it is my passion. 
+📍 Connect with Me:
 
-- 📲 Development skills are a must in tech fields, so I have qualified as a web, App, and IOT developer.
-
-- 🎯 Building brands is in  my blood, and creating stradagies to brand is a key to take the brand to the next level. Right now, I am conducting four digital brands.
-
-📍From: Ganemulla, Sri Lanka 🇱🇰 
-🏠️Lives in Colombo, Sri Lanka 🇱🇰
-
-Contact me: ddsyasas@gmail.com
-<!---
-ddsyasas/ddsyasas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: yasas@idersolutions.com
+Web: ddsyasas.com
+LinkedIn: Yasas Dehigaspitiyage Don
+🤝 Let’s create, code, and innovate together!
