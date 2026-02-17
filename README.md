@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Physics_Masters-University_of_Bologna-1E3A5F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=white" />
+<img src="https://img.shields.io/badge/Physics_Masters-University_of_Bologna-1E3A5F?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Building-SyncSEO-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Running-IDER_Solutions-00C853?style=for-the-badge&logo=briefcase&logoColor=white" />
 
@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ddsyasas&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-
 </div>
 
 ---
@@ -38,7 +34,7 @@
 class Yasas:
     def __init__(self):
         self.name = "Sajana Yasas"
-        self.location = "Bologna, Italy 🇮🇹"
+        self.location = "Bologna, Italy"
         self.education = "MSc Material Physics & Nanoscience @ University of Bologna"
         self.prev_education = "BSc Engineering Physics @ University of Colombo"
         
@@ -49,7 +45,7 @@ class Yasas:
             "Physics Researcher (Condensed Matter & Nanomaterials)"
         ]
         
-        self.philosophy = "IDEA → EXECUTION"
+        self.philosophy = "IDEA -> EXECUTION"
         self.current_focus = "Shipping products with AI-assisted development"
     
     def daily_loop(self):
@@ -62,13 +58,13 @@ class Yasas:
 
 ---
 
-## ⚡ What I'm Building
+## What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 SyncSEO
+### <img src="https://img.shields.io/badge/-SyncSEO-6C63FF?style=flat-square" /> SyncSEO
 **SEO Content Architecture SaaS**
 
 Building a tool that makes content architecture visible. Born from a real pain point we faced at our agency, solving the mess of managing hundreds of articles without structure.
@@ -82,7 +78,7 @@ Building a tool that makes content architecture visible. Born from a real pain p
 </td>
 <td width="50%" valign="top">
 
-### 🏢 IDER Solutions
+### <img src="https://img.shields.io/badge/-IDER_Solutions-00C853?style=flat-square" /> IDER Solutions
 **Digital Marketing Agency (Est. 2019)**
 
 Helping businesses grow through SEO, web development, and digital strategy. What started as a university side project is now a full agency serving clients across multiple markets.
@@ -98,7 +94,7 @@ Helping businesses grow through SEO, web development, and digital strategy. What
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Founder's Path Podcast
+### <img src="https://img.shields.io/badge/-Founder's_Path-FF6F00?style=flat-square" /> Founder's Path Podcast
 **From Idea to Execution**
 
 Weekly conversations with founders breaking down real startup journeys. No fluff, just the raw lessons from building things.
@@ -108,10 +104,10 @@ Weekly conversations with founders breaking down real startup journeys. No fluff
 </td>
 <td width="50%" valign="top">
 
-### 🔬 Physics Research
+### <img src="https://img.shields.io/badge/-Physics_Research-1E3A5F?style=flat-square" /> Physics Research
 **Material Physics & Nanoscience**
 
-Masters research at University of Bologna. Previous work on graphene-based flexible gas sensors (SnO₂/Graphene nanocomposites). Where physics meets real-world applications.
+Masters research at University of Bologna. Previous work on graphene-based flexible gas sensors (SnO2/Graphene nanocomposites). Where physics meets real-world applications.
 
 `Nanomaterials` `Condensed Matter` `Sensors`
 
@@ -121,7 +117,7 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -159,29 +155,29 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddsyasas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddsyasas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</div>
+<br/>
 
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ddsyasas/ddsyasas/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddsyasas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🧪 Where Physics Meets Code
+## Where Physics Meets Code
 
 ```
 Condensed Matter Physics    →    Built graphene-based flexible gas sensors
-Nanomaterial Synthesis      →    SnO₂/Graphene nanocomposites for LPG detection
+Nanomaterial Synthesis      →    SnO2/Graphene nanocomposites for LPG detection
 Computational Methods       →    Python/MATLAB simulations & data analysis
 Signal Processing           →    Custom SMD amplifier circuits for sensor data
 IoT Systems                 →    Cloud-connected monitoring systems
@@ -191,7 +187,7 @@ IoT Systems                 →    Cloud-connected monitoring systems
 
 ---
 
-## 🌍 The Journey
+## The Journey
 
 ```
 2019  ━━━━━━━━  Founded IDER Solutions while still in university
@@ -206,29 +202,16 @@ IoT Systems                 →    Cloud-connected monitoring systems
 
 <div align="center">
 
-### 💬 Philosophy
-
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   "The best way to learn is to build.       │
-│    The best way to build is to ship.        │
-│    The best way to ship is to start."       │
-│                                             │
-│                        ─ IDEA → EXECUTION   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+**If you're building something cool, let's connect.**
 
 <br/>
 
-**If you're building something cool, let's connect.**
-
 <a href="https://www.linkedin.com/in/yasas-dehigaspitiyage-don/">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://twitter.com/ddsyasas">
-  <img src="https://img.shields.io/badge/Follow_the_Journey-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br/><br/>
