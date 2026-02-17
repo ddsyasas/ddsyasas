@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=IDEA+%E2%86%92+EXECUTION;Physics+%C3%97+Code+%C3%97+Business" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=IDEA+%E2%86%92+EXECUTION;Physics+%C3%97+Code+%C3%97+Business" alt="Typing SVG" />
 
-<br/>
+<img src="https://img.shields.io/badge/MSc_Material_Physics-Uni_Bologna-6C63FF?style=flat&labelColor=1a1a2e&color=6C63FF" />
+<img src="https://img.shields.io/badge/Building-SyncSEO-6C63FF?style=flat&labelColor=1a1a2e&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Founder-IDER_Solutions-6C63FF?style=flat&labelColor=1a1a2e&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Co--host-Founder's_Path-6C63FF?style=flat&labelColor=1a1a2e&logo=microphone&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Physics_Masters-University_of_Bologna-1E3A5F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Building-SyncSEO-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Running-IDER_Solutions-00C853?style=for-the-badge&logo=briefcase&logoColor=white" />
-
-<br/><br/>
-
+<p>
 <a href="https://www.linkedin.com/in/yasas-dehigaspitiyage-don/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/ddsyasas">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 <a href="https://yasas.dev">
-  <img src="https://img.shields.io/badge/yasas.dev-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/yasas.dev-FF5722?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:yasas@idersolutions.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
+</p>
 </div>
 
 ---
@@ -165,8 +162,6 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
   </picture>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddsyasas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%" alt="Contribution Graph" />
 </div>
@@ -204,8 +199,6 @@ IoT Systems                 →    Cloud-connected monitoring systems
 
 **If you're building something cool, let's connect.**
 
-<br/>
-
 <a href="https://www.linkedin.com/in/yasas-dehigaspitiyage-don/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -214,7 +207,7 @@ IoT Systems                 →    Cloud-connected monitoring systems
   <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 
