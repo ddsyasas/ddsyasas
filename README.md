@@ -145,10 +145,6 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddsyasas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&custom_title=Recent%20Activity" width="95%" alt="Contribution Graph" />
 </div>
 
