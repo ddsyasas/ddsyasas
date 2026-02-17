@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddsyasas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-dehigaspitiyage-don/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ddsyasas)
 [![Website](https://img.shields.io/badge/yasas.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasas.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasas@idersolutions.com)
@@ -146,9 +146,9 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -189,7 +189,7 @@ IoT Systems                 →    Cloud-connected monitoring systems
 
 **If you're building something cool, let's connect.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddsyasas/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasas-dehigaspitiyage-don/)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ddsyasas)
 
