@@ -146,9 +146,9 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026&totals_label=2026%20Contributions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026&totals_label=2026%20Contributions" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026&totals_label=2026%20Contributions" alt="GitHub Streak" />
   </picture>
 </div>
 
