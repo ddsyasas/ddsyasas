@@ -145,15 +145,13 @@ Masters research at University of Bologna. Previous work on graphene-based flexi
 ## GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026&totals_label=2026%20Contributions&v=20260217" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ddsyasas&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026&totals_label=2026%20Contributions&v=20260217" />
-    <img src="https://streak-stats.demolab.com/?user=ddsyasas&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&starting_year=2026&totals_label=2026%20Contributions&v=20260217" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ddsyasas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&custom_title=2026%20GitHub%20Stats&include_all_commits=false" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddsyasas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddsyasas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddsyasas&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&custom_title=Recent%20Activity" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
